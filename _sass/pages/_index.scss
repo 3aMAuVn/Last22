@@ -931,14 +931,3 @@
     &__chip{width:100%;}
   }
 }
-
-/* === 2026-03-24 ensure Vietnamese homepage uses updated translated demo === */
-.page-vi{
-  .home-demo-showcase__levels,
-  .home-demo-showcase__included,
-  .home-demo-showcase__cards,
-  .home-demo-showcase__hero,
-  .home-demo-showcase__feature{
-    display:block;
-  }
-}
